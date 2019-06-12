@@ -56,21 +56,4 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 
 Projects are your workspace to organize your resources, such as assets like data, collaborators, and analytic tools like notebooks and models
 
-#### Create a New Project
 
-- Click on **Create a Project**
-- Select the **Standard** tile and press the **Create Project** button
-
-![Watson Studio New project screenshot](../screenshots/WatsonStudio-NewProject-Tiles.png)
-
-- Give your Project a name : **Wildfire Burned Homes**
-- The Cloud Object Storage instance created in an earlier step should be prefilled
-- Press the **Create** button
-
-![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject.png)
-
-You are ready to set up your Project with Watson Visual Recognition. Proceed to the next [step](VISRECO.md)
-
-***
-*Quick links :*
-[Home](/README.md) - [WildFires](WILDFIRES.md) - [**Watson Studio**](STUDIO.md) - [Visual Recognition Model](VISRECO.md) - [Test and Deploy](VRMTEST.md)
