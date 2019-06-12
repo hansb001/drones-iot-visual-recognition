@@ -69,6 +69,22 @@ Projects are your workspace to organize your resources, such as assets like data
 
 ![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject.png)
 
+
+![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModel.png)
+
+#### Provision a new Watson Visual Recognition Service instance
+- Your project needs to be associated with a Watson Visual Recognition Service instance
+- Click on the **click here** link in the popup to provision a new service
+
+![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionService.png)
+
+#### Create a Watson Visual Recognition Service
+- Select the **Lite** plan and note the features
+- Scroll to the bottom and click on the **Create** button
+
+![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionServiceInstance.png)
+
+
 You are ready to set up your Project with Watson Visual Recognition. Proceed to the next [step](VISRECO.md)
 
 ***
