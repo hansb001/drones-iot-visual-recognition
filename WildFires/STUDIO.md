@@ -67,7 +67,7 @@ Projects are your workspace to organize your resources, such as assets like data
 - The Cloud Object Storage instance created in an earlier step should be prefilled
 - Press the **Create** button
 
-![Watson Studio New project screenshot](screenshots/selctvisreco.png)
+![Watson Studio New project screenshot](screenshots/selctvisreco1.png)
 
 
 Then select or create a new visual recognition service
