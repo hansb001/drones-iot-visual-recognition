@@ -14,27 +14,7 @@ In this lab you will create a Visual Recognition model in a Watson Studio Projec
 Projects are your workspace to organize your resources, such as assets like data, collaborators, and analytic tools like notebooks and models.
 The first step is to add Assets to your Watson Studio Project
 
-#### Add Assets to your Watson Studio Project
-- Click on the **Assets** tab
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-Assets.png)
-
-#### Create a New Visual Recognition model
-- Click on **New Visual Recognition model**
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModel.png)
-
-#### Provision a new Watson Visual Recognition Service instance
-- Your project needs to be associated with a Watson Visual Recognition Service instance
-- Click on the **click here** link in the popup to provision a new service
-
-![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionService.png)
-
-#### Create a Watson Visual Recognition Service
-- Select the **Lite** plan and note the features
-- Scroll to the bottom and click on the **Create** button
-
-![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionServiceInstance.png)
 
 #### Rename Visual Recognition Model
 - The **Default Custom Model** name is not descriptive so let's rename it
