@@ -67,16 +67,11 @@ Projects are your workspace to organize your resources, such as assets like data
 - The Cloud Object Storage instance created in an earlier step should be prefilled
 - Press the **Create** button
 
-![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject.png)
+![Watson Studio New project screenshot](screenshots/selctvisreco.png.png)
 
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModel.png)
-
-#### Provision a new Watson Visual Recognition Service instance
+Then select or create a new visual recognition service
 - Your project needs to be associated with a Watson Visual Recognition Service instance
-- Click on the **click here** link in the popup to provision a new service
-
-![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionService.png)
 
 #### Create a Watson Visual Recognition Service
 - Select the **Lite** plan and note the features
