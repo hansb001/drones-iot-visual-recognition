@@ -16,18 +16,23 @@ The first step is to add Assets to your Watson Studio Project
 
 
 
-#### Rename Visual Recognition Model
+#### Add Visual Recognition Model
+Next step is to add a visual recognition model to the project.
+
+- Click on **Add to project**, a list of assests will apear
+- Choose **Visual Recognition model**
+- In the **custom Models** section, choose **Clasify Images** by clicking on **Create model**
 - The **Default Custom Model** name is not descriptive so let's rename it
 - Click on the **pencil** icon to edit the name
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename1.png)
+![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename12.png)
 
 - Rename the model to **Count Burned Homes**
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename2.png)
+![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename22.png)
 
 #### Add Custom Classes to the Watson Visual Recognition Model
-- Click on the **+** symbol to add a class
+- Click on the **Crteate a class** symbol to add a class
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddClass1.png)
 
