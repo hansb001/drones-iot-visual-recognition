@@ -72,11 +72,10 @@ Your project needs to be associated with a Watson Visual Recognition Service ins
 - Scroll down to **Associated services** and click on **Add service**
 - From the menu, select Watson. An overview of Watson services will appear.
 ![Watson Studio New project screenshot](../screenshots/selctvisreco12.png)
-- Select the **Visual Recognition** tile and press the **Add** button, select a region in the next screen and click **Confirm**
-Scroll down to **Associated services** you will see the Watson Visual Recognition added to your project.
-
+- Select the **Visual Recognition** tile and press the **Add** button, in the next screen, click on **Create**, 
 ![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionServiceInstance2.png)
-
+- Select a region in the next screen and click **Confirm**
+- Scroll down to **Associated services** you will see the Watson Visual Recognition added to your project.
 
 You are ready to set up your Project with Watson Visual Recognition. Proceed to the next [step](VISRECO.md)
 
