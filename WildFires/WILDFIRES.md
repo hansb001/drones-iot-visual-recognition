@@ -20,12 +20,12 @@ After completing this tutorial you will be able to:
 
 This tutorial can be completed using an IBM Cloud Lite account.
 
-* Create an [IBM Cloud account](https://console.bluemix.net/registration)
+* Create an [IBM Cloud account](https://ibm.biz/BdqDbh)
 * Log into [IBM Cloud](https://console.bluemix.net/login)
 
 ## Estimated time
 
-You can complete this task in no more than 15 minutes.
+You can complete this task in no more than 45 minutes.
 
 # Hands on Lab Overview
 
@@ -40,7 +40,7 @@ There are many types of drones available that range from toys to industrial use 
 - Hobbyist drones
 - Commercial drones
 
-For this lab, we are not flying the drone indoors or venturing out into a field.  If you are interested in purchasing a drone, the instructors can share some of their drone experiences and recommendations.
+For this lab, we are not flying the drone indoors or venturing out into a field.  If you are interested in purchasing a drone, the instructor(s) can share some of their drone experiences and recommendations.
 
 ## Step 2 - Capturing Images
 
@@ -55,9 +55,9 @@ In this lab, we have created three zip files of pictures recorded by drones. The
 
 
 ## Step 3 - Watson Studio
-In this section, we will create a Watson Studio account, create a Project and Watson Visual Recognition model to identify images in several classes.
+In this section, we will create a Watson Studio instance, create a Project and Watson Visual Recognition model to identify images in several classes.
 
-- Create a Watson Studio account - follow these [instructions](STUDIO.md)
+- Create a Watson Studio instance - follow these [instructions](STUDIO.md)
 - Create a Project
 - Create a Visual Recognition model - follow these [instructions](VISRECO.md)
 - Upload three zips to Cloud Storage
