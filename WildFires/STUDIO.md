@@ -22,7 +22,7 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 #### Create **Cloud Object Storage**
 
 - Create a Cloud Object Storage instance by visiting the [IBM Cloud Catalog](https://console.bluemix.net/catalog/?search=object)
-- Search on **Object** in the IBM Cloud Catalog
+- Search on **Object** in the IBM Cloud Catalog or go to the **Storage section** in the left menu.
 - Click on the **Object Storage** service tile
 
 ![Cloud Object Storage Catalog screenshot](../screenshots/CloudObjectStorage-Catalog.png)
@@ -33,8 +33,8 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 
 #### Create a Watson Studio service instance
 
-- Create a **Watson Studio** service instance from the [IBM Cloud Catalog](https://console.bluemix.net/catalog/?search=studio)
-- Search on **Studio** in the IBM Cloud Catalog
+- Go back to the IBM Cloud Catalog
+- Search on **Studio** in the IBM Cloud Catalog or go to the **AI section** in the left menu.
 
 ![Watson Studio Catalog screenshot](../screenshots/WatsonStudio-Catalog.png)
 
@@ -47,7 +47,7 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 
 ![Watson Studio Launch screenshot](../screenshots/WatsonStudio-Launch.png)
 
-- Login with your IBM Cloud account
+- (If needed) Login with your IBM Cloud account
 - Walk through the introductory tutorial to learn about Watson Studio
 
 ![Watson Studio Welcome screenshot](../screenshots/WatsonStudio-Welcome.png)
