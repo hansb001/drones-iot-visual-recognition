@@ -19,20 +19,17 @@ The first step is to add Assets to your Watson Studio Project
 #### Add Visual Recognition Model
 Next step is to add a visual recognition model to the project.
 
-- Click on **Add to project**, a list of assests will apear
+- Click on **Add to project**, a list of assets will appear.
 - Choose **Visual Recognition model**
 - In the **custom Models** section, choose **Clasify Images** by clicking on **Create model**
 - The **Default Custom Model** name is not descriptive so let's rename it
 - Click on the **pencil** icon to edit the name
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename12.png)
-
 - Rename the model to **Count Burned Homes**
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename22.png)
+
 
 #### Add Custom Classes to the Watson Visual Recognition Model
-- Click on the **Crteate a class** symbol to add a class
+- Click on the **Create a class** symbol to add a class
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddClass1.png)
 
@@ -41,7 +38,7 @@ Next step is to add a visual recognition model to the project.
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelBurnedHomeClass.png)
 
-- Add a second custom class by clicking on the **+** symbol again
+- Add a second custom class by clicking on the **Create a class** button again
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddClass2.png)
 
@@ -52,7 +49,6 @@ Next step is to add a visual recognition model to the project.
 
 #### Upload Zip Files to Watson Studio Project
 - Three zip files have been prepared which contain aerial drone images
-- These zip files are on the local lab workstation
 - If you following these steps on the web, download the aerial drone zip files here:
   - [BurnedHomes.zip](classes/BurnedHomes.zip)
   - [AerialHomes.zip](classes/AerialHomes.zip)
