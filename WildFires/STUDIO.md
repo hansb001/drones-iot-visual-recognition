@@ -25,32 +25,32 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 - Search on **Object** in the IBM Cloud Catalog or go to the **Storage section** in the left menu.
 - Click on the **Object Storage** service tile
 
-![Cloud Object Storage Catalog screenshot](../screenshots/CloudObjectStorage-Catalog.png)
+![Cloud Object Storage Catalog screenshot](../screenshots/CloudObjectStorage-Catalog2.png)
 
 - Click on the **Create** button
 
-![Cloud Object Storage Catalog screenshot](../screenshots/CloudObjectStorage-Service.png)
+![Cloud Object Storage Catalog screenshot](../screenshots/CloudObjectStorage-Service2.png)
 
 #### Create a Watson Studio service instance
 
 - Go back to the IBM Cloud Catalog
 - Search on **Studio** in the IBM Cloud Catalog or go to the **AI section** in the left menu.
 
-![Watson Studio Catalog screenshot](../screenshots/WatsonStudio-Catalog.png)
+![Watson Studio Catalog screenshot](../screenshots/WatsonStudio-Catalog2.png)
 
 - Click on the **Watson Studio** service tile
 
-![Watson Studio Service screenshot](../screenshots/WatsonStudio-Service.png)
+![Watson Studio Service screenshot](../screenshots/WatsonStudio-Service2.png)
 
 - Click on the **Create** button
 - After the Watson Studio service is created, click on **Get Started** or visit Watson Studio at <https://dataplatform.cloud.ibm.com/>
 
-![Watson Studio Launch screenshot](../screenshots/WatsonStudio-Launch.png)
+![Watson Studio Launch screenshot](../screenshots/WatsonStudio-Launch2.png)
 
 - (If needed) Login with your IBM Cloud account
 - Walk through the introductory tutorial to learn about Watson Studio
 
-![Watson Studio Welcome screenshot](../screenshots/WatsonStudio-Welcome.png)
+![Watson Studio Welcome screenshot](../screenshots/WatsonStudio-Welcome2.png)
 
 ### Watson Studio Projects
 
@@ -58,26 +58,24 @@ Projects are your workspace to organize your resources, such as assets like data
 
 #### Create a New Project
 
-- Click on **Create a Project**
-- Select the **Visual Recognition** tile and press the **Create Project** button
-
-![Watson Studio New project screenshot](../screenshots/WatsonStudio-NewProject-Tiles.png)
-
-- Give your Project a name : **Wildfire Burned Homes**
+- Click on **Create a project**
+- Click on **Create an empty project**
+- Give your Project a name : **Wildfire Burned Homes**. A description is optional.
 - The Cloud Object Storage instance created in an earlier step should be prefilled
-- Press the **Create** button
-
-![Watson Studio New project screenshot](screenshots/selctvisreco1.png)
+- Click on **Create**
 
 
-Then select or create a new visual recognition service
-- Your project needs to be associated with a Watson Visual Recognition Service instance
+![Watson Studio New project screenshot](../screenshots/WatsonStudio-NewProject-Tiles2.png)
 
-#### Create a Watson Visual Recognition Service
-- Select the **Lite** plan and note the features
-- Scroll to the bottom and click on the **Create** button
+Your project needs to be associated with a Watson Visual Recognition Service instance
+- Now add the Visual recognition service to the project: click on **Settings**
+- Scroll down to **Associated services** and click on **Add service**
+- From the menu, select Watson. An overview of Watson services will appear.
+![Watson Studio New project screenshot](screenshots/selctvisreco12.png)
+- Select the **Visual Recognition** tile and press the **Create** button, select a region in the next screen and click **Confirm**
+Scroll down to **Associated services** you will see the Watson Visual Recognition added to your project.
 
-![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionServiceInstance.png)
+![Watson Studio  screenshot](../screenshots/WatsonStudio-VisualRecognitionServiceInstance2.png)
 
 
 You are ready to set up your Project with Watson Visual Recognition. Proceed to the next [step](VISRECO.md)
