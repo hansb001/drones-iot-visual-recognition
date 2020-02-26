@@ -29,23 +29,6 @@ Next step is to add a visual recognition model to the project.
 
 
 #### Add Custom Classes to the Watson Visual Recognition Model
-- Click on the **Create a class** symbol to add a class
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddClass1.png)
-
-- Name this class **Burned Home**
-- Click the **Create** button
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelBurnedHomeClass.png)
-
-- Add a second custom class by clicking on the **Create a class** button again
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddClass2.png)
-
-- Name this class **Intact Home**
-- Click the **Create** button
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelIntactHomeClass.png)
 
 #### Upload Zip Files to Watson Studio Project
 - Three zip files have been prepared which contain aerial drone images
