@@ -21,7 +21,7 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 
 #### Create **Cloud Object Storage**
 
-- Create a Cloud Object Storage instance by visiting the [IBM Cloud Catalog](https://console.bluemix.net/catalog/?search=object)
+- Create a Cloud Object Storage instance by visiting the [IBM Cloud Catalog](https://console.bluemix.net/catalog/?search=object) or:
 - Search on **Object** in the IBM Cloud Catalog or go to the **Storage section** in the left menu.
 - Click on the **Object Storage** service tile
 
