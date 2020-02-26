@@ -25,7 +25,7 @@ In this lab you will use sample images to confirm your Visual Recognition model.
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelTestImage.png)
 
-### Implement Watson Visual Recognition custom model in your Applications
+### OPTIONAL Implement Watson Visual Recognition custom model in your Applications
 - You can incorporate this Watson Visual Recognition Custom Classifier model into your applications using a variety of programming languages
 - Click on the **Implementation** tab to review the Code snippets
 
