@@ -61,9 +61,9 @@ In this section, we will create a Watson Studio instance, create a Project and W
 - Create a Project
 - Create a Visual Recognition model - follow these [instructions](VISRECO.md)
 - Upload three zips to Cloud Storage
-- Create a class *Burned Home* - drag a zipfile
-- Create another class *Intact Home* - drag a zipfile
-- Create a negative class using the *Not Homes* images - drag a zipfile
+- Create a class *Burned Home* 
+- Create another class *Intact Home* 
+- Create a negative class using the *Not Homes* images 
 - Train your model - wait a few minutes
 
 ## Step 4 - Test your model
