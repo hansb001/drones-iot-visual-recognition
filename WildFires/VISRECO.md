@@ -40,25 +40,16 @@ Next step is to add a visual recognition model to the project.
 - An operating system native File Dialog will open
 - Multi-select the three zip files **BurnedHomes.zip**, **AerialHomes.zip**, **NotHomes.zip**
 - Upload these zip files to your Watson Studio project
+- You will see the zip files added to the classes section.
+- Rename **BurnedHomes.zip** to **Burned Homes**
+- Rename **AerialHomes.zip** to **Intact Homes**
+- Now add the images from **NotHomes.zip** to the negative class by clicking on **NotHomes.zip**
+then select all images and click on **Reclassify** and select the **Negative** class
+- Delete the **NotHomes.zip** class
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddZipFiles.png)
 
-#### Drag the zip files to Custom Classes
-- Grab the **BurnedHomes.zip** from the right navigation and drag it to the **Burned Home** class
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelZipFiles.png)
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelZipFileDrag.png)
-
-- The images in the zip file will be added to the **Burned Home** class
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelZipFile2Class.png)
-
-- Grab the **AerialHomes.zip** from the right navigation and drag it to the **Intact Home** class
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelZipFile2ClassIntactHome.png)
-
-- Grab the **NotHomes.zip** from the right navigation and drag it to the **Negative** class
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelZipFile2ClassNotHomesNegative.png)
 
