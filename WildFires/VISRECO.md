@@ -47,12 +47,6 @@ Next step is to add a visual recognition model to the project.
 then select all images and click on **Reclassify** and select the **Negative** class
 - Delete the **NotHomes.zip** class
 
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddZipFiles.png)
-
-
-
-![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelZipFile2ClassNotHomesNegative.png)
-
 #### Train your Watson Visual Recognition Custom Classifier
 - Click on the **Train Model** button
 - Wait a few minutes for the model to train on the images
