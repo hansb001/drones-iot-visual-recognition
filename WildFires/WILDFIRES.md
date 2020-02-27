@@ -35,7 +35,7 @@ The outline below provides a high level overview of the steps included in the la
 
 There are many types of drones available that range from toys to industrial use cases.  Many of the drones now include a camera that can store or stream aerial video to the ground. Using the livestream video frames, we can sample frames and send the images to Watson Visual Recognition for classification.
 - Pocket toy drones
-  - [Contixo F8](http://www.contixo.com/products/Contixo-F8-Foldable-Pocket-Size-Selfie-Drone-Voice-Controls-720P-HD-Wifi-Live-FPV-Video-Camera-360-Stunts-8-10min-Fly-Time-Gravity-Control-Red_308.html)
+  - [Contixo F17](https://www.contixo.com/f17-quadcopter-4k-hd-drone)
 - Tello - Control a [Tello Drone using Node-RED](https://github.com/johnwalicki/Node-RED-Tello-Control)
 - Hobbyist drones
 - Commercial drones
