@@ -1,6 +1,7 @@
 # Drones-IoT-Visual-Recognition
-Save Lives with Drones / IoT / Visual Recognition - Call for Code Hands on Lab
-Presentation can be found [here](presentation.pdf)
+Save Lives with Drones / IoT / Visual Recognition - Call for Code Hands on Lab.
+
+Presentation can be found [here](presentation.pdf).
 
 ## Introduction
 
